@@ -43,6 +43,10 @@ public class HUDManager : MonoBehaviour
 
     public GameObject introPanel;
 
+    [Header("Pause")]
+    public GameObject pausePanel;
+    private bool isPaused = false;
+
 
    void Start()
 {
@@ -107,6 +111,8 @@ public void StartGame()
 
     void Update()
     {
+        if (UnityEngine.InputSystem.Keyboard.current.escapeKey.wasPressedThisFrame) TogglePause();
+        if (isPaused) return;
         if (!timerRunning) return;
         timeLeft -= Time.deltaTime;
         timeLeft = Mathf.Max(0, timeLeft);
@@ -223,6 +229,7 @@ public void SwimFreely()
 
 public void GoToMenu()
 {
+    Time.timeScale = 1f;
     PlayerPrefs.SetInt("RescuedCount", 
         PlayerPrefs.GetInt("RescuedCount", 0) + rescued);
     SceneManager.LoadScene("MainMenu");
@@ -230,6 +237,27 @@ public void GoToMenu()
 
 public void RestartGame()
 {
+    Time.timeScale = 1f;
     SceneManager.LoadScene("MainScene");
 }
+
+public void QuitGame()
+{
+    Application.Quit();
+}
+
+public void TogglePause()
+{
+    isPaused = !isPaused;
+    pausePanel.SetActive(isPaused);
+    Time.timeScale = isPaused ? 0f : 1f;
+    Cursor.lockState = isPaused ? CursorLockMode.None : CursorLockMode.Locked;
+    Cursor.visible = isPaused;
+}
+
+public void ResumeGame()
+{
+    TogglePause();
+}
+
 }
