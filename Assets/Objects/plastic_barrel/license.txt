@@ -1,0 +1,11 @@
+Model Information:
+* title:	Plastic barrel
+* source:	https://sketchfab.com/3d-models/plastic-barrel-36eed80bde5b4346be3c8de19c15a006
+* author:	BlackMike (https://sketchfab.com/BlackMike)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Plastic barrel" (https://sketchfab.com/3d-models/plastic-barrel-36eed80bde5b4346be3c8de19c15a006) by BlackMike (https://sketchfab.com/BlackMike) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

@@ -1,0 +1,11 @@
+Model Information:
+* title:	Boat "Josefa"
+* source:	https://sketchfab.com/3d-models/boat-josefa-90f8077289544059b03f974efeda6093
+* author:	Alexandre González Rivas (https://sketchfab.com/AlexandreGonzalezRivas)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Boat "Josefa"" (https://sketchfab.com/3d-models/boat-josefa-90f8077289544059b03f974efeda6093) by Alexandre González Rivas (https://sketchfab.com/AlexandreGonzalezRivas) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)

@@ -1,0 +1,11 @@
+Model Information:
+* title:	Underwater Assets Environment
+* source:	https://sketchfab.com/3d-models/underwater-assets-environment-dd04e87b896447e0b087b40b151928b1
+* author:	KajaStud (https://sketchfab.com/KajaStud)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Underwater Assets Environment" (https://sketchfab.com/3d-models/underwater-assets-environment-dd04e87b896447e0b087b40b151928b1) by KajaStud (https://sketchfab.com/KajaStud) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

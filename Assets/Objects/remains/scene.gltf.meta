@@ -1,0 +1,150 @@
+fileFormatVersion: 2
+guid: c68469781dab12640b712300dd38bbd8
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ground
+    second: {fileID: 2100000, guid: b3fade900ea854040bef27be64f25e28, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Plants
+    second: {fileID: 2100000, guid: 28cb81f52ddc94a49bcecc8b35f2f90d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SkeletonBody
+    second: {fileID: 2100000, guid: 5e5a368676b4e964a969f81e87f2e083, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SkeletonLimb
+    second: {fileID: 2100000, guid: e0dc7114150060542bd792feeb17cf94, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SkeletonSkull
+    second: {fileID: 2100000, guid: f7d425b520a998541b03e9aa0c3e5982, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sticks
+    second: {fileID: 2100000, guid: ebaa2211c065542468fb39ba738a7735, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Stone
+    second: {fileID: 2100000, guid: 2a96dc602ae22704f91127dcd9f3a968, type: 2}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 804e1ce4c496647cfa3f1a1134187c71, type: 3}
+  _removeEmptyRootObjects: 1
+  _scaleFactor: 1
+  _deduplicateResources: 0
+  _deduplicatedStatistics:
+    meshCountBefore: 0
+    meshCountAfter: 0
+    textureCountBefore: 0
+    textureCountAfter: 0
+  _maximumLod: 300
+  _readWriteEnabled: 1
+  _generateColliders: 0
+  _addColliders: 0
+  _swapUvs: 0
+  _generateLightmapUVs: 0
+  _importBlendShapeNames: 1
+  _blendShapeFrameWeight:
+    _option: 0
+    _multiplier: 1
+  _importNormals: 0
+  _importTangents: 0
+  _importCamera: 2
+  _importAnimations: 2
+  _mecanimHumanoidFlip: 0
+  _addAnimatorComponent: 0
+  _animationLoopTime: 1
+  _animationLoopPose: 0
+  _importMaterials: 1
+  _enableGpuInstancing: 0
+  _texturesReadWriteEnabled: 1
+  _generateMipMaps: 1
+  _useSceneNameIdentifier: 1
+  _textureCompression: -50
+  _gltfAsset: '<b>Generator: </b>Sketchfab-12.68.0
+
+    <b>Version: </b>2.0
+
+    
+
+    <b>Extras:
+    </b>
+
+'
+  optimizeGameObjects: 0
+  materials:
+  - {fileID: 6795462705980167066, guid: c68469781dab12640b712300dd38bbd8, type: 3}
+  - {fileID: -5204282647940867266, guid: c68469781dab12640b712300dd38bbd8, type: 3}
+  - {fileID: 8197107571953078729, guid: c68469781dab12640b712300dd38bbd8, type: 3}
+  - {fileID: 4645641173910805229, guid: c68469781dab12640b712300dd38bbd8, type: 3}
+  - {fileID: 4219607230785236890, guid: c68469781dab12640b712300dd38bbd8, type: 3}
+  - {fileID: 7312631632849987700, guid: c68469781dab12640b712300dd38bbd8, type: 3}
+  - {fileID: 963798294112862009, guid: c68469781dab12640b712300dd38bbd8, type: 3}
+  textures:
+  - {fileID: 2800000, guid: 986170e63fba9fa4cb55eff9afbd14fb, type: 3}
+  - {fileID: 2800000, guid: 3f816d711d4cb6e4fbf04d76e525b28a, type: 3}
+  - {fileID: 2800000, guid: c0ed4dba2a960ca43a1473daa772e700, type: 3}
+  - {fileID: 2800000, guid: b9ac8be0906cecf4f87cb91b96152db9, type: 3}
+  - {fileID: 2800000, guid: 06d6b249336456b4fa7c8e1843f26a3c, type: 3}
+  - {fileID: 2800000, guid: 553f04a8dcb999f41ba3ff5412b1d293, type: 3}
+  - {fileID: 2800000, guid: 08bdd6e863c6405429cd025f46828a4a, type: 3}
+  - {fileID: 2800000, guid: ecc51d96dbb347145a0d525dfabffbe1, type: 3}
+  - {fileID: 2800000, guid: 86366078567213e43bc2dc077dc865b3, type: 3}
+  - {fileID: 2800000, guid: f0aa5da214f284b42aa6884d53bbb638, type: 3}
+  - {fileID: 2800000, guid: 8247a05697726e142ba637a2af18d764, type: 3}
+  hasSceneData: 1
+  hasAnimationData: 0
+  hasMaterialData: 1
+  hasTextureData: 1
+  animations: []
+  _extensions: []
+  _textures:
+  - texture: {fileID: 2800000, guid: 986170e63fba9fa4cb55eff9afbd14fb, type: 3}
+    shouldBeLinear: 0
+    shouldBeNormalMap: 0
+  - texture: {fileID: 2800000, guid: 3f816d711d4cb6e4fbf04d76e525b28a, type: 3}
+    shouldBeLinear: 1
+    shouldBeNormalMap: 1
+  - texture: {fileID: 2800000, guid: c0ed4dba2a960ca43a1473daa772e700, type: 3}
+    shouldBeLinear: 0
+    shouldBeNormalMap: 0
+  - texture: {fileID: 2800000, guid: b9ac8be0906cecf4f87cb91b96152db9, type: 3}
+    shouldBeLinear: 0
+    shouldBeNormalMap: 0
+  - texture: {fileID: 2800000, guid: 06d6b249336456b4fa7c8e1843f26a3c, type: 3}
+    shouldBeLinear: 1
+    shouldBeNormalMap: 1
+  - texture: {fileID: 2800000, guid: 553f04a8dcb999f41ba3ff5412b1d293, type: 3}
+    shouldBeLinear: 0
+    shouldBeNormalMap: 0
+  - texture: {fileID: 2800000, guid: 08bdd6e863c6405429cd025f46828a4a, type: 3}
+    shouldBeLinear: 1
+    shouldBeNormalMap: 1
+  - texture: {fileID: 2800000, guid: ecc51d96dbb347145a0d525dfabffbe1, type: 3}
+    shouldBeLinear: 0
+    shouldBeNormalMap: 0
+  - texture: {fileID: 2800000, guid: 86366078567213e43bc2dc077dc865b3, type: 3}
+    shouldBeLinear: 1
+    shouldBeNormalMap: 1
+  - texture: {fileID: 2800000, guid: f0aa5da214f284b42aa6884d53bbb638, type: 3}
+    shouldBeLinear: 0
+    shouldBeNormalMap: 0
+  - texture: {fileID: 2800000, guid: 8247a05697726e142ba637a2af18d764, type: 3}
+    shouldBeLinear: 0
+    shouldBeNormalMap: 0
+  _mainAssetIdentifier: scenes/Sketchfab_Scene
+  _importPlugins: []

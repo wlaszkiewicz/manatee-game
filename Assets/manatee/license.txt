@@ -1,0 +1,11 @@
+Model Information:
+* title:	Manatee
+* source:	https://sketchfab.com/3d-models/manatee-ed7d8c1c53fb4371b9c8fcd8374cf916
+* author:	kenchoo (https://sketchfab.com/kenchoo)
+
+Model License:
+* license type:	CC-BY-SA-4.0 (http://creativecommons.org/licenses/by-sa/4.0/)
+* requirements:	Author must be credited. Modified versions must have the same license. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Manatee" (https://sketchfab.com/3d-models/manatee-ed7d8c1c53fb4371b9c8fcd8374cf916) by kenchoo (https://sketchfab.com/kenchoo) licensed under CC-BY-SA-4.0 (http://creativecommons.org/licenses/by-sa/4.0/)

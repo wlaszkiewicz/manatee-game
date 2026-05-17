@@ -1,0 +1,180 @@
+fileFormatVersion: 2
+guid: 4b7090662f7550942b1c6d4ec1c7f471
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bush
+    second: {fileID: 2100000, guid: 8692a8ecec35b3d4196e8959d7e1e3aa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Leaf
+    second: {fileID: 2100000, guid: f3204e009e0c5024d844fe6f377e5117, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Rock1
+    second: {fileID: 2100000, guid: e27c37f72615f18419b8cefb11b26c09, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Seablob
+    second: {fileID: 2100000, guid: 15a4c0ef7effcb0478c02a9cb1d19948, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Seaweed
+    second: {fileID: 2100000, guid: 15ddcb289551fcd42a4c1a5be412b70a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: material
+    second: {fileID: 2100000, guid: c6b4b07c9815ef54bbe7b3c3c6452aa2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__Bush1
+    second: {fileID: 2100000, guid: 36b55caf0cee3d144951724a5b4837db, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__Bush2
+    second: {fileID: 2100000, guid: f5c30dc684ecc1e4e9966da27f64127b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__Leaf
+    second: {fileID: 2100000, guid: 67b2e8e1cc8e88647a32a72474b810c5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__Seablob
+    second: {fileID: 2100000, guid: c56975d8eba8c9e45bf2595cf3706e6a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__Seablob1
+    second: {fileID: 2100000, guid: 985d9896567172546ba5eb13399c3f6e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__Seaweed
+    second: {fileID: 2100000, guid: 4c4555eebcb3b72418ab4e6ebf45a620, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__pasted__Bush1
+    second: {fileID: 2100000, guid: 1eaa402d90a4aa64e8df8353153d35ac, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__pasted__Seablob
+    second: {fileID: 2100000, guid: b69ef3898dab89b4cad7ff22b0499cfe, type: 2}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 804e1ce4c496647cfa3f1a1134187c71, type: 3}
+  _removeEmptyRootObjects: 1
+  _scaleFactor: 1
+  _deduplicateResources: 0
+  _deduplicatedStatistics:
+    meshCountBefore: 0
+    meshCountAfter: 0
+    textureCountBefore: 0
+    textureCountAfter: 0
+  _maximumLod: 300
+  _readWriteEnabled: 1
+  _generateColliders: 0
+  _addColliders: 0
+  _swapUvs: 0
+  _generateLightmapUVs: 0
+  _importBlendShapeNames: 1
+  _blendShapeFrameWeight:
+    _option: 0
+    _multiplier: 1
+  _importNormals: 0
+  _importTangents: 0
+  _importCamera: 2
+  _importAnimations: 2
+  _mecanimHumanoidFlip: 0
+  _addAnimatorComponent: 0
+  _animationLoopTime: 1
+  _animationLoopPose: 0
+  _importMaterials: 1
+  _enableGpuInstancing: 0
+  _texturesReadWriteEnabled: 1
+  _generateMipMaps: 1
+  _useSceneNameIdentifier: 1
+  _textureCompression: -50
+  _gltfAsset: '<b>Generator: </b>Sketchfab-15.49.0
+
+    <b>Version: </b>2.0
+
+    
+
+    <b>Extras:
+    </b>
+
+'
+  optimizeGameObjects: 0
+  materials:
+  - {fileID: -5618006526032565814, guid: 4b7090662f7550942b1c6d4ec1c7f471, type: 3}
+  - {fileID: 586645097001841572, guid: 4b7090662f7550942b1c6d4ec1c7f471, type: 3}
+  - {fileID: -8760898357920694527, guid: 4b7090662f7550942b1c6d4ec1c7f471, type: 3}
+  - {fileID: 1812647522408553600, guid: 4b7090662f7550942b1c6d4ec1c7f471, type: 3}
+  - {fileID: 3818440949466118321, guid: 4b7090662f7550942b1c6d4ec1c7f471, type: 3}
+  - {fileID: -5180580646806341030, guid: 4b7090662f7550942b1c6d4ec1c7f471, type: 3}
+  - {fileID: 6844676777322478897, guid: 4b7090662f7550942b1c6d4ec1c7f471, type: 3}
+  - {fileID: -3031978545051891895, guid: 4b7090662f7550942b1c6d4ec1c7f471, type: 3}
+  - {fileID: -2102476040181834481, guid: 4b7090662f7550942b1c6d4ec1c7f471, type: 3}
+  - {fileID: 6354319499415573885, guid: 4b7090662f7550942b1c6d4ec1c7f471, type: 3}
+  - {fileID: 3805281167882843538, guid: 4b7090662f7550942b1c6d4ec1c7f471, type: 3}
+  - {fileID: -8948741998339323215, guid: 4b7090662f7550942b1c6d4ec1c7f471, type: 3}
+  - {fileID: -1654268546873937379, guid: 4b7090662f7550942b1c6d4ec1c7f471, type: 3}
+  - {fileID: -5102925599652658469, guid: 4b7090662f7550942b1c6d4ec1c7f471, type: 3}
+  textures:
+  - {fileID: 2800000, guid: ee7d9e0d12ff2fb43b57bd50f1ad93dc, type: 3}
+  - {fileID: 2800000, guid: d4e4535877eb30148ad1c3764816baf3, type: 3}
+  - {fileID: 2800000, guid: afa56dcf8324909478995afaa16812da, type: 3}
+  - {fileID: 2800000, guid: 10abe93b555ec8444801ca24c797b749, type: 3}
+  - {fileID: 2800000, guid: 7b29b21d984608144b91d88d59aa05aa, type: 3}
+  - {fileID: 2800000, guid: baa4ae53267654742a84b29b46cf313e, type: 3}
+  - {fileID: 2800000, guid: 607f4c17a443f064391a289689c53912, type: 3}
+  - {fileID: 2800000, guid: 3dfa5866f7ce8af47a155950ce9843b4, type: 3}
+  hasSceneData: 1
+  hasAnimationData: 0
+  hasMaterialData: 1
+  hasTextureData: 1
+  animations: []
+  _extensions: []
+  _textures:
+  - texture: {fileID: 2800000, guid: ee7d9e0d12ff2fb43b57bd50f1ad93dc, type: 3}
+    shouldBeLinear: 0
+    shouldBeNormalMap: 0
+  - texture: {fileID: 2800000, guid: d4e4535877eb30148ad1c3764816baf3, type: 3}
+    shouldBeLinear: 1
+    shouldBeNormalMap: 1
+  - texture: {fileID: 2800000, guid: afa56dcf8324909478995afaa16812da, type: 3}
+    shouldBeLinear: 0
+    shouldBeNormalMap: 0
+  - texture: {fileID: 2800000, guid: 10abe93b555ec8444801ca24c797b749, type: 3}
+    shouldBeLinear: 1
+    shouldBeNormalMap: 1
+  - texture: {fileID: 2800000, guid: 7b29b21d984608144b91d88d59aa05aa, type: 3}
+    shouldBeLinear: 0
+    shouldBeNormalMap: 0
+  - texture: {fileID: 2800000, guid: baa4ae53267654742a84b29b46cf313e, type: 3}
+    shouldBeLinear: 0
+    shouldBeNormalMap: 0
+  - texture: {fileID: 2800000, guid: 607f4c17a443f064391a289689c53912, type: 3}
+    shouldBeLinear: 0
+    shouldBeNormalMap: 0
+  - texture: {fileID: 2800000, guid: 3dfa5866f7ce8af47a155950ce9843b4, type: 3}
+    shouldBeLinear: 0
+    shouldBeNormalMap: 0
+  _mainAssetIdentifier: scenes/Sketchfab_Scene
+  _importPlugins: []
