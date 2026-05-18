@@ -196,20 +196,22 @@ void OnWin()
 
 void OnDeath()
 {
+    Cursor.lockState = CursorLockMode.None;
+    Cursor.visible = true;
     timerRunning = false;
     loseTitleText.text = "Oh no! You ran out of health...";
     losePanel.SetActive(true);
-    Cursor.lockState = CursorLockMode.None;
-    Cursor.visible = true;
+
 }
 
 void OnTimerEnd()
 {
-    timerRunning = false;
-    loseTitleText.text = "Time's up! The river needs more help...";
-    losePanel.SetActive(true);
     Cursor.lockState = CursorLockMode.None;
     Cursor.visible = true;
+    timerRunning = false;
+    losePanel.SetActive(true);
+    loseTitleText.text = "Time's up! The river needs more help...";
+
 }
 
     public void ShowWinPanel()
