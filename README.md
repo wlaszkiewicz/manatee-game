@@ -72,9 +72,6 @@ Unity 6, C#, Unity Input System, Cinemachine, Unity Physics
 ![Minigame instructions](docs/screenshots/mini_game_instruction.png)
 *2D minigame intro*
 
-![Minigame](docs/screenshots/mini_game.png)
-*2D fish rescue minigame*
-
 
 ## Asset Credits
 
